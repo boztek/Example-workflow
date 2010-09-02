@@ -2,7 +2,7 @@ core = 6.x
 
 ; Contrib (include common 'outer core' in a make file)
 projects[cck][subdir]   = contrib
-projects[cck][version]  = 2.x
+projects[cck][version]  = 2.8
 
 ; projects[cck][download][type]   = git
 ; projects[cck][download][url]    = git://git.drupalcode.org/projects/cck.git
