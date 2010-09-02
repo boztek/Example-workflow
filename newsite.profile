@@ -120,7 +120,7 @@ function newsite_profile_tasks(&$task, $url) {
   );
 
   foreach ($types as $type) {
-    $type = (object) _node_type_set_newsites($type);
+    $type = (object) _node_type_set_defaults($type);
     node_type_save($type);
   }
 
