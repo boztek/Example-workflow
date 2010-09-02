@@ -8,7 +8,8 @@
  *   An array of modules to enable.
  */
 function newsite_profile_modules() {
-  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog');
+  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog',
+    'ctools', 'page_manager', 'panels', 'admin_menu');
 }
 
 /**
@@ -21,8 +22,8 @@ function newsite_profile_modules() {
  */
 function newsite_profile_details() {
   return array(
-    'name' => 'Drupal',
-    'description' => 'Select this profile to enable some basic Drupal functionality and the newsite theme.'
+    'name' => 'New site',
+    'description' => 'Example install profile.'
   );
 }
 
