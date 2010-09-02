@@ -6,8 +6,10 @@ projects[cck][version]  = 2.8
 projects[views][subdir]   = contrib
 projects[views][version]  = 2.11
 
-; projects[cck][download][type]   = git
-; projects[cck][download][url]    = git://git.drupalcode.org/projects/cck.git
-; projects[cck][download][tag]    = 6.x-2.8
 
-; CUSTOM
+; Custom (if splitting custom module to separate repo for reusability)
+
+; Base themes
+projects[zen][type]     = theme
+projects[zen][subdir]   = contrib
+projects[zen][version]  = 2
