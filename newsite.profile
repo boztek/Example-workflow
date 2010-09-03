@@ -9,7 +9,8 @@
  */
 function newsite_profile_modules() {
   return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog',
-    'ctools', 'page_manager', 'panels', 'admin_menu');
+    'ctools', 'page_manager', 'panels', 'admin_menu',
+    'jquery_ui', 'panels_ipe',);
 }
 
 /**
