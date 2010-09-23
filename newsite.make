@@ -5,7 +5,7 @@ projects[cck][subdir]         = contrib
 projects[cck][version]        = 2.8
 
 projects[views][subdir]       = contrib
-projects[views][version]      = 2.11
+projects[views][version]      = 2.10
 
 projects[ctools][subdir]      = contrib
 
