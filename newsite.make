@@ -14,7 +14,7 @@ projects[panels][subdir]      = contrib
 projects[admin_menu][subdir]  = contrib
 
 projects[jquery_ui][subdir]   = contrib
-projects[jquery_ui][version]  = 1.3
+projects[jquery_ui][version]  = 1.4
 libraries[jquery_ui][download][type] = "get"
 libraries[jquery_ui][download][url] =  "http://jquery-ui.googlecode.com/files/jquery.ui-1.6.zip"
 libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
