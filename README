@@ -1,0 +1,15 @@
+DRUPAL WEB APP DEVELOPMENT STARTER KIT
+======================================
+
+To use this example starter kit to build a drupal web app using drush make:
+
+1. rename newsite.make and newsite.profile to match the application name.
+2. remove .git folder and create new repo and public repo and push code there
+    e.g.
+      rm -rf .git
+      git init
+      git add remote origin git@myrepo.com/app.git
+      git push origin master
+3. add git repo to build.make and rename newsite to actual app name
+4. edit app.make and app.profile files basic info, commit and push
+5. bootstrap.sh and start developing

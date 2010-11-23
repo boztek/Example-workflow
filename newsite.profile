@@ -8,9 +8,7 @@
  *   An array of modules to enable.
  */
 function newsite_profile_modules() {
-  return array('color', 'comment', 'help', 'menu', 'taxonomy', 'dblog',
-    'ctools', 'page_manager', 'panels', 'admin_menu',
-    'jquery_ui', 'panels_ipe',);
+  return drupal_required_modules();
 }
 
 /**
