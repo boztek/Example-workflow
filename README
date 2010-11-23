@@ -12,4 +12,5 @@ To use this example starter kit to build a drupal web app using drush make:
       git push origin master
 3. add git repo to build.make and rename newsite to actual app name
 4. edit app.make and app.profile files basic info, commit and push
-5. bootstrap.sh and start developing
+5. edit bootstrap.sh to set site instance location (WEBROOT), proxy, etc.
+6. run bootstrap.sh and start developing!
