@@ -2,3 +2,4 @@ modules/contrib/
 themes/contrib/
 libraries/contrib/
 build
+Makefile
