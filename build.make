@@ -1,6 +1,6 @@
 api = 2
 core = 6.x
-projects[] = drupal
+projects[drupal][type] = core
 
 ; project
 projects[newsite][type] = profile

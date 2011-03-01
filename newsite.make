@@ -1,8 +1,8 @@
 core = 6.x
 
 ; Contrib (include common 'outer core' in a make file)
-;projects[cck][subdir]         = contrib
-;projects[cck][version]        = 2.8
+projects[cck][subdir]         = contrib
+projects[cck][version]        = 2.8
 ;projects[views][subdir]       = contrib
 ;projects[views][version]      = 2.11
 ;projects[ctools][subdir]      = contrib
