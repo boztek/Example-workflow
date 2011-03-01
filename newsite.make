@@ -1,3 +1,4 @@
+api = 2
 core = 6.x
 
 ; Contrib (include common 'outer core' in a make file)
