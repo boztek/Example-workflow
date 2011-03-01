@@ -21,6 +21,6 @@ libraries[jquery_ui][directory_name] = "jquery.ui"
 ; Custom (if splitting custom module to separate repo for reusability)
 
 ; Base themes
-;projects[zen][type]     = theme
-;projects[zen][subdir]   = contrib
-;projects[zen][version]  = 2
+projects[zen][type]     = theme
+projects[zen][subdir]   = contrib
+projects[zen][version]  = 2
